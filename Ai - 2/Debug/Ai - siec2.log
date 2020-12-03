@@ -1,0 +1,63 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(26,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(55,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(56,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(59,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(60,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(82,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(83,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(86,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(87,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(109,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(110,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(113,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(114,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(142,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(143,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(145,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(146,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(155,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(156,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(183,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(184,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(186,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(187,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(196,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(197,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(224,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(225,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(227,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(228,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(237,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(238,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(276,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(277,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(280,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(281,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(304,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(305,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(308,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(309,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(332,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(333,30): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(336,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(337,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(365,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(366,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(368,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(369,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(382,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(383,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(410,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(411,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(413,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(414,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(427,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(428,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(455,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(456,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(458,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(459,31): warning C4244: "argument": konwersja z "size_t" do "const float", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(472,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai - siec2\main.cpp(473,13): warning C4267: "=": konwersja z "size_t" do "SHORT", możliwa utrata danych
+  Ai - siec2.vcxproj -> C:\Users\Asus\source\repos\Ai - siec2\Debug\Ai - siec2.exe
