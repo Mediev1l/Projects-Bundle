@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\asus\source\repos\ai - sieć\ai - sieć\main.cpp(44): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Ai - sieć.vcxproj -> C:\Users\Asus\source\repos\Ai - sieć\Debug\Ai - sieć.exe
