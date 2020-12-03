@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\Ai\main.cpp(63,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Asus\source\repos\Ai\main.cpp(96,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\Ai\main.cpp(98,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\Ai\main.cpp(116,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Ai.vcxproj -> C:\Users\Asus\source\repos\Ai\Debug\Ai.exe
