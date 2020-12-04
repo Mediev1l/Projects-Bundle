@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\Mieszanie\main.cpp(24,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Asus\source\repos\Mieszanie\main.cpp(60,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\Mieszanie\main.cpp(64,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Mieszanie.vcxproj -> C:\Users\Asus\source\repos\Mieszanie\Debug\Mieszanie.exe
