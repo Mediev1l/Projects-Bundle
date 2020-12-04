@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(52): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(92): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(91): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(51): note: zobacz odwołanie do funkcji szablon; wystąpienie „void freqcounter<int>::sort(std::vector<int,std::allocator<_Ty>> &)” jest kompilowane
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(44): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(54): note: zobacz odwołanie do funkcji szablon; wystąpienie „void freqcounter<int>::addData(T)” jest kompilowane
+          with
+          [
+              T=int
+          ]
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(50): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „freqcounter<int>” jest kompilowane
+  Progi III - 5.vcxproj -> C:\Users\Asus\source\repos\Progi III - 5\x64\Debug\Progi III - 5.exe

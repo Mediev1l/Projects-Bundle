@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(93): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(277): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(270): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(110): note: zobacz odwołanie do funkcji szablon; wystąpienie „void freqcounter<int>::to_PPM_chart(std::string)” jest kompilowane
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(97): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „freqcounter<int>” jest kompilowane
+c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(205): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(204): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(159): note: zobacz odwołanie do funkcji szablon; wystąpienie „void freqcounter<char>::sort(std::vector<T,std::allocator<char>> &)” jest kompilowane
+          with
+          [
+              T=char
+          ]
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(127): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(116): note: zobacz odwołanie do funkcji szablon; wystąpienie „freqcounter<char>::freqcounter(void)” jest kompilowane
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(29): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „freqcounter<char>” jest kompilowane
+  Trwa generowanie kodu
+  2 of 603 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Progi III - 5.vcxproj -> C:\Users\Asus\source\repos\Progi III - 5\x64\Release\Progi III - 5.exe

@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(54): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(43): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(42): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(58): note: zobacz odwołanie do funkcji szablon; wystąpienie „void freqcounter<int>::create(void)” jest kompilowane
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(52): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „freqcounter<int>” jest kompilowane
+c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(52): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(72): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\freqcounter.h(71): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\asus\source\repos\progi iii - 5\progi iii - 5\main.cpp(59): note: zobacz odwołanie do funkcji szablon; wystąpienie „void freqcounter<int>::print(void)” jest kompilowane
+  Progi III - 5.vcxproj -> C:\Users\Asus\source\repos\Progi III - 5\Debug\Progi III - 5.exe

@@ -1,0 +1,1 @@
+#include "freqcounter.h"

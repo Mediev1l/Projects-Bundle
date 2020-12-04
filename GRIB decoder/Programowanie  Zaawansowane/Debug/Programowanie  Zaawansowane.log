@@ -1,0 +1,7 @@
+﻿  Decoder.cpp
+c:\users\asus\source\repos\programowanie  zaawansowane\programowanie  zaawansowane\decoder.h(48): warning C4091: "static ": zignorowano na lewo od "Decoder" podczas gdy brak deklaracji zmiennej
+c:\users\asus\source\repos\programowanie  zaawansowane\programowanie  zaawansowane\decoder.cpp(194): warning C4267: "inicjowanie": konwersja z "size_t" do "char", możliwa utrata danych
+  main.cpp
+c:\users\asus\source\repos\programowanie  zaawansowane\programowanie  zaawansowane\decoder.h(48): warning C4091: "static ": zignorowano na lewo od "Decoder" podczas gdy brak deklaracji zmiennej
+  Generowanie kodu...
+  Programowanie  Zaawansowane.vcxproj -> C:\Users\Asus\source\repos\Programowanie  Zaawansowane\Debug\Programowanie  Zaawansowane.exe
