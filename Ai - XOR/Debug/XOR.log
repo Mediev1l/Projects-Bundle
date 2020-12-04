@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Neuron.cpp
+  Generowanie kodu...
+C:\Users\Asus\source\repos\XOR\main.cpp(18,9): warning C4101: "sum": lokalna zmienna, do której nie istnieje odwołanie
+  XOR.vcxproj -> C:\Users\Asus\source\repos\XOR\Debug\XOR.exe
