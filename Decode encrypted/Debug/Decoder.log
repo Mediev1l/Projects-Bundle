@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\Decoder\main.cpp(104): warning C4715: "Decoder::__code”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Asus\source\repos\Decoder\main.cpp(144): warning C4715: "Decoder::__decode”: niewszystkie ścieżki kodu zwracają wartość
+  Decoder.vcxproj -> C:\Users\Asus\source\repos\Decoder\Debug\Decoder.exe
