@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\asus\source\repos\asd2_skorkab_wzorzec\asd2_skorkab_wzorzec\main.cpp(30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  2 of 308 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  ASD2_SkorkaB_Wzorzec.vcxproj -> C:\Users\Asus\source\repos\ASD2_SkorkaB_Wzorzec\Release\ASD2_SkorkaB_Wzorzec.exe
