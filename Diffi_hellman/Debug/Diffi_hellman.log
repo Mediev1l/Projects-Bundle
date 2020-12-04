@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\Diffi_hellman\main.cpp(28,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Diffi_hellman.vcxproj -> C:\Users\Asus\source\repos\Diffi_hellman\Debug\Diffi_hellman.exe
