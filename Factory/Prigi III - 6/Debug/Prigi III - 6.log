@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: nierozpoznany zewnętrzny symbol "public: void __thiscall morse::translate(int)" (?translate@morse@@QAEXH@Z) przywołany w funkcji "public: void __thiscall factory::convert<int>(int const &)" (??$convert@H@factory@@QAEXABH@Z)
+C:\Users\Asus\source\repos\Prigi III - 6\Debug\Progi III - 6.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
