@@ -1,0 +1,9 @@
+﻿  color.cpp
+  main.cpp
+c:\users\asus\source\repos\progi iii - 4\progi iii - 4\main.cpp(12): warning C4101: "kolor": lokalna zmienna, do której nie istnieje odwołanie
+  obraz.cpp
+  ppm.cpp
+  Trwa generowanie kodu
+  All 264 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Progi III - 4.vcxproj -> C:\Users\Asus\source\repos\Progi III - 4\Release\Progi III - 4.exe
