@@ -1,0 +1,16 @@
+1
+size 10
+add 78 osemka
+add 78 osemka_dwa_copy
+add 88 osemka_dwa
+add 2 dwojka
+add 12 dwojka_dwa
+add 22 dwojka_trzy
+add 14 czworka
+print
+delete 22
+add 22 dwojka_trojka
+print
+delete 14
+print
+stop

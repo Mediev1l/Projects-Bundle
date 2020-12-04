@@ -1,0 +1,9 @@
+﻿  ASD2_SkorkaB_zadanie1.cpp
+c:\users\asus\source\repos\asd2_zadanie1\asd2_zadanie1\asd2_skorkab_zadanie1.cpp(108): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\source\repos\asd2_zadanie1\asd2_zadanie1\asd2_skorkab_zadanie1.cpp(113): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\source\repos\asd2_zadanie1\asd2_zadanie1\asd2_skorkab_zadanie1.cpp(118): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\source\repos\asd2_zadanie1\asd2_zadanie1\asd2_skorkab_zadanie1.cpp(127): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\source\repos\asd2_zadanie1\asd2_zadanie1\asd2_skorkab_zadanie1.cpp(127): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\source\repos\asd2_zadanie1\asd2_zadanie1\asd2_skorkab_zadanie1.cpp(259): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\asus\source\repos\asd2_zadanie1\asd2_zadanie1\asd2_skorkab_zadanie1.cpp(281): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+  ASD2_Zadanie1.vcxproj -> C:\Users\Asus\source\repos\ASD2_Zadanie1\Debug\ASD2_Zadanie1.exe

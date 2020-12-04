@@ -1,0 +1,39 @@
+3
+size 10
+add 13 ala
+add 23 ola
+add 23 alan
+delete 13
+print
+stop
+size 10
+add 13 ala
+add 23 ola
+add 14 ula
+add 34 ela
+delete 34
+add 54 ela
+delete 14
+add 74 ula
+delete 13
+print
+stop
+size 11
+add 27 A
+add 38 B
+add 116 C
+add 161 D
+add 96 E
+delete 27
+delete 96
+delete 116
+delete 38
+delete 161
+add 373 K
+add 230 L
+delete 373
+add 361 M
+add 119 N
+delete 361
+print
+stop

@@ -1,0 +1,18 @@
+0 79 dziewiatka7
+1 11 ola_dwojka
+2 69 dziewiatka6
+3 59 dziewiatka5
+4 89 dziewiatka_dwa
+5 0 zerowka
+9 99 dziewiatka
+
+0 0 zerowka
+1 11 ola_dwojka
+3 59 dziewiatka5
+9 89 dziewiatka_dwa
+
+0 0 zerowka
+3 59 dziewiatka5
+9 89 dziewiatka_dwa
+
+

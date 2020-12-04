@@ -1,0 +1,34 @@
+1
+size 10
+add 5 rog
+add 8 x
+add 9 a
+add 99 b
+add 999 c
+add 909 o
+print
+0 99 b
+1 999 c
+2 909 o
+5 5 rog
+8 8 x
+9 9 a
+add 9999 x
+add 19 x
+add 919 g
+print
+0 99 b
+1 999 c
+2 909 o
+3 9999 x
+4 19 x
+5 5 rog
+6 919 g
+8 8 x
+9 9 a
+
+add 555 test
+print
+
+delete 9
+print
