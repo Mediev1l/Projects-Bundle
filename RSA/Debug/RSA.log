@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Asus\source\repos\RSA\main.cpp(37,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\RSA\main.cpp(42,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\RSA\main.cpp(56,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\RSA\main.cpp(135,20): warning C4244: "argument": konwersja z "double" do "const unsigned int", możliwa utrata danych
+C:\Users\Asus\source\repos\RSA\main.cpp(136,20): warning C4244: "argument": konwersja z "double" do "const unsigned int", możliwa utrata danych
+C:\Users\Asus\source\repos\RSA\main.cpp(142,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\RSA\main.cpp(151,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  RSA.vcxproj -> C:\Users\Asus\source\repos\RSA\Debug\RSA.exe
