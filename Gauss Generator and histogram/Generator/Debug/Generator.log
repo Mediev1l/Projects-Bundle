@@ -1,0 +1,5 @@
+﻿  Generator.cpp
+c:\users\asus\source\repos\generator\generator\generator.cpp(7): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\asus\source\repos\generator\generator\generator.cpp(33): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+c:\users\asus\source\repos\generator\generator\generator.cpp(47): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+  Generator.vcxproj -> C:\Users\Asus\source\repos\Generator\Debug\Generator.exe
